@@ -8,14 +8,15 @@ primeira experiência.
 watched an online guided tutorial, so I could have my
 first experience.
 
-## Aprendizados
+## Aprendizados | Learnings
 
 ☠️ Nesse tutorial é ensinado a fazer um editor de imagem
 em Python, utilizando a biblioteca Pytube.
 
 ☠️ In this tutorial is taught how to make an image editor
 in Python, using the Pytube library.
-## Stack utilizada
+
+## Stack utilizada | Stack used
 
 **Back-end:** Pycharm | Python
 
